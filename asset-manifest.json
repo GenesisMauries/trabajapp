@@ -1,13 +1,14 @@
 {
-  "main.css": "/trabajapp/static/css/main.4203d8b1.chunk.css",
-  "main.js": "/trabajapp/static/js/main.839bfc55.chunk.js",
-  "main.js.map": "/trabajapp/static/js/main.839bfc55.chunk.js.map",
+  "main.css": "/trabajapp/static/css/main.ee520f6e.chunk.css",
+  "main.js": "/trabajapp/static/js/main.29a58b47.chunk.js",
+  "main.js.map": "/trabajapp/static/js/main.29a58b47.chunk.js.map",
   "runtime~main.js": "/trabajapp/static/js/runtime~main.850e4745.js",
   "runtime~main.js.map": "/trabajapp/static/js/runtime~main.850e4745.js.map",
-  "static/js/2.a5e00a24.chunk.js": "/trabajapp/static/js/2.a5e00a24.chunk.js",
-  "static/js/2.a5e00a24.chunk.js.map": "/trabajapp/static/js/2.a5e00a24.chunk.js.map",
+  "static/js/2.a213059e.chunk.js": "/trabajapp/static/js/2.a213059e.chunk.js",
+  "static/js/2.a213059e.chunk.js.map": "/trabajapp/static/js/2.a213059e.chunk.js.map",
   "index.html": "/trabajapp/index.html",
-  "precache-manifest.8e69bde6b1a034c6d075aa30bf5bba1b.js": "/trabajapp/precache-manifest.8e69bde6b1a034c6d075aa30bf5bba1b.js",
+  "precache-manifest.cbc6d41811ec479650a6c64457c97589.js": "/trabajapp/precache-manifest.cbc6d41811ec479650a6c64457c97589.js",
   "service-worker.js": "/trabajapp/service-worker.js",
-  "static/css/main.4203d8b1.chunk.css.map": "/trabajapp/static/css/main.4203d8b1.chunk.css.map"
+  "static/css/main.ee520f6e.chunk.css.map": "/trabajapp/static/css/main.ee520f6e.chunk.css.map",
+  "static/media/style.css": "/trabajapp/static/media/urban-617277_1920.1d884165.jpg"
 }
