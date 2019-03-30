@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/trabajapp/static/js/runtime~main.850e4745.js"
   },
   {
-    "revision": "424290dfe97acd1ea5f2",
+    "revision": "0c8a6a63713cfeb3043d",
     "url": "/trabajapp/static/js/main.29a58b47.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/trabajapp/static/js/2.a213059e.chunk.js"
   },
   {
-    "revision": "424290dfe97acd1ea5f2",
-    "url": "/trabajapp/static/css/main.ee520f6e.chunk.css"
+    "revision": "0c8a6a63713cfeb3043d",
+    "url": "/trabajapp/static/css/main.83dc743d.chunk.css"
   },
   {
-    "revision": "55503f19fabaeb5668751fee82b909c3",
+    "revision": "f691c16b6384c7fd7654b814fc015126",
     "url": "/trabajapp/index.html"
   }
 ];
